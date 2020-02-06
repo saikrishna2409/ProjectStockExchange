@@ -1,0 +1,40 @@
+{
+  "ipo": [
+    {
+      "id": 101,
+      "company": "CTS",
+      "stockexchange": "BSE",
+      "PriceShare": 5000,
+      "NoofShares": 5,
+      "Address": "shollingnallur",
+      "City": "Chennai",
+      "State": "TamilNadu",
+      "PinCode": 62300,
+      "Date": "22-02-2020"
+    },
+    {
+      "id": "566",
+      "company": "cts",
+      "stockexchange": "bfr",
+      "priceshare": 234,
+      "noofshares": 7,
+      "address": "strd",
+      "city": "kurnool",
+      "state": "ap",
+      "pincode": 73789,
+      "date": "1999-04-06"
+    },
+    {
+      "id": "143",
+      "company": "sdsv",
+      "stockexchange": "svdsdvs",
+      "priceshare": 233242432,
+      "noofshares": 334,
+      "address": "z xz",
+      "city": "zcz",
+      "state": "zczczx",
+      "pincode": 73789,
+      "date": "2020-02-10"
+    }
+  ]
+}
